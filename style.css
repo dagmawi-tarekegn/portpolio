@@ -144,4 +144,12 @@ form button {
 form button:hover {
   background: #4CAF50;
 }
+/* footer */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #333;
+  color: #fff;
+  margin-top: 20px;
+}
 
