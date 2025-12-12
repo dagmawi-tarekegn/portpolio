@@ -12,3 +12,10 @@ html,body {
 main {
   flex: 1;
 }
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 0;
+}
+
