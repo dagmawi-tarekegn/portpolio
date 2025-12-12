@@ -70,4 +70,26 @@ header h1 {
 .profile img:hover {
   transform: scale(1.1);
 }
+/* About */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+ul {
+  list-style: disc;
+  margin: 10px 0 20px 30px;
+}
+
+ol {
+  list-style: decimal;
+  margin: 10px 0 20px 30px;
+}
 
